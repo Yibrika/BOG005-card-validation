@@ -3,7 +3,7 @@ import validator from "./validator.js";
 document.getElementById("btn").addEventListener("click", () => {
   let creditCardNumber = document.getElementById("cardNumber").value;
   let nameCard = document.getElementById("namecard").value;
-  //let surnameCard = document.getElementById("surnamecard").value;
+  
   if (creditCardNumber == " ") {
     alert("DEBES INTRODUCIR UN NUMERO");
     return document.getElementById("cardNumber").value;
@@ -30,7 +30,7 @@ function validarTarjeta(creditCardNumber) {
   }
 }
 function maskyCard(creditCardNumber) {
-  //document.getElementById("numberMaskify").innerHTML =
+  
   document.getElementById("cardNumber").value = validator.maskify(creditCardNumber);
 }
 

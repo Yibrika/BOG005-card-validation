@@ -223,8 +223,13 @@ En el `README.md`, cuéntanos cómo pensaste en los usuarios y cuál fue tu proc
 para definir el producto final a nivel de experiencia y de interfaz.
 
 * Quiénes son los principales usuarios de producto.
+ 
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
+
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
+
+
+
 
 ### Interfaz de usuario (UI)
 
@@ -435,3 +440,21 @@ Organización del Trabajo:
 * [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
 
 Únete al canal de Slack **#project-card-validation**
+
+Readme de mi primer proyecto 
+
+Ck Money Instant
+
+Mi proyecto esta pensado en la comodidad de los usuarios al momento de solicitar dinero en efectivo como bien sabemos ir al cajero o a un banco es bien tedioso por las colas y el tiempo pedirdo con Ck money instant puedes tener la opcion de solicitar dinero con tu tarjeta de credito y esperar el dinero en tu casa un mensajero de la empresa te lo lleva hasta la puerta de tu casa en poco tiempo y con confiabilidas.
+
+[imagenes](src/imagenes/prototipo.png)
+
+
+
+
+
+
+
+
+
+
