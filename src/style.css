@@ -1,0 +1,52 @@
+body{
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgb(251, 63, 242) 0%, rgba(252,70,107,1) 100%);
+}
+
+.formulario{
+display: block;
+justify-content: center;   
+text-align: center;
+}
+
+.titulo{
+
+text-align: center;
+color: rgb(17, 0, 255);
+font-size: 40px;
+font-weight: bold;
+}
+
+article{
+    text-align: center;
+    color:#000000
+    
+}
+
+ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#000000;
+}
+
+li{
+    list-style: none;
+}
+
+ input::placeholder{
+    text-transform: uppercase;
+ }   
+
+ #mensaje-invalido{
+    text-transform: uppercase;
+    display: block;
+    color:gold
+     
+
+ }
+
+ #mensaje-valido{
+    text-transform: uppercase;
+    display: block;
+    color:blue
+ }
