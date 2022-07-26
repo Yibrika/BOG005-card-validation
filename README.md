@@ -448,7 +448,7 @@ Ck Money Instant
 Mi proyecto esta pensado en la comodidad de los usuarios al momento de solicitar dinero en efectivo como bien sabemos ir al cajero o a un banco es bien tedioso por las colas y el tiempo pedirdo con Ck money instant puedes tener la opcion de solicitar dinero con tu tarjeta de credito y esperar el dinero en tu casa un mensajero de la empresa te lo lleva hasta la puerta de tu casa en poco tiempo y con confiabilidas.
 
 [imagenes](src/imagenes/prototipo.png)
-[imagenes](src/imagenes/prototipo%20final.pptx)
+[imagenes](src/imagenes/prototipo%20final%201.png)
 
 
 
